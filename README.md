@@ -34,7 +34,7 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 - **Outcome:** XGBoost achieved 81% accuracy and 17% recall improvement over baseline  
 - **Deliverables:** Model summary, feature importance, executive summary
 
-📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Waze%20User%20Churn%20Prediction)
+📂 [View Project Folder]([https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Waze%20User%20Churn%20Prediction](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course6))
 
 ---
 
@@ -47,7 +47,7 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 - **Outcome:** Final model achieved 98% AUC using Random Forest  
 - **Deliverables:** Key drivers of attrition, HR strategy recommendations
 
-📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/HR%20Attrition%20Prediction)
+📂 [View Project Folder]([https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/HR%20Attrition%20Prediction](https://github.com/PranayPrasanth/HR-Attrition-Prediction))
 
 ---
 
