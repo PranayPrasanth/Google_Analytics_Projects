@@ -34,7 +34,7 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 - **Outcome:** XGBoost achieved 81% accuracy and 17% recall improvement over baseline  
 - **Deliverables:** Model summary, feature importance, executive summary
 
-📂 [View Project Repository](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
+📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/HR%20Attrition%20Prediction)
 
 
 
@@ -48,8 +48,10 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 - **Techniques:** EDA, logistic regression, random forest, AUC/ROC analysis
 - **Outcome:** Final model achieved 98% AUC using Random Forest  
 - **Deliverables:** Key drivers of attrition, HR strategy recommendations
+ 
+ 📂 [View Project Repository](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
 
-📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/HR%20Attrition%20Prediction)
+
 
 
 ---
