@@ -34,7 +34,8 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 - **Outcome:** XGBoost achieved 81% accuracy and 17% recall improvement over baseline  
 - **Deliverables:** Model summary, feature importance, executive summary
 
-📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course6)
+📂 [View Project Repository](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
+
 
 
 ---
