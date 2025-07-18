@@ -1,6 +1,6 @@
-# 📊 Google Advanced Data Analytics Certificate - Course Repository
+# 📊 Google Advanced Data Analytics Certificate – Project Repository
 
-This repository serves as a comprehensive collection of projects, labs, and assignments completed as part of the **Google Advanced Data Analytics Professional Certificate**. This 7-part program provided an in-depth exploration of advanced data analysis techniques, machine learning, and statistical modeling, culminating in several end-to-end capstone projects.
+This repository contains projects, labs, and capstone assignments completed as part of the **Google Advanced Data Analytics Professional Certificate**. The 7-course program provided advanced training in data analysis, machine learning, and statistical modeling, culminating in multiple real-world, end-to-end data projects.
 
 ---
 
@@ -19,101 +19,84 @@ This repository serves as a comprehensive collection of projects, labs, and assi
 
 ## About the Certificate
 
-The **Google Advanced Data Analytics Certificate** is designed to equip learners with advanced skills in data analysis, including statistical modeling, machine learning, and data visualization. The program emphasizes practical application through real-world case studies, covering topics from data preparation and exploratory analysis to model building, evaluation, and stakeholder communication.
+The **Google Advanced Data Analytics Certificate** equips learners with skills in advanced analytics, statistical modeling, and machine learning. Real-world case studies allow learners to apply tools like Python, SQL, and Tableau in building complete data workflows—from data cleaning and exploration to predictive modeling and stakeholder communication.
 
 ---
 
 ## Key Projects
 
-This repository showcases two major end-to-end capstone projects, demonstrating the application of a full data analytics lifecycle.
-
 ### Waze User Churn Prediction
 
-**Objective:** Predict user churn for a leading cab company (Waze) and provide data-driven insights to improve user retention.
+**Objective:** Predict churn for a leading mobility app and deliver actionable business insights to improve retention.
 
-**Dataset:** Analyzed ~15,000 user records across 13 key features including session activity, driving patterns, and navigation habits.
+- **Dataset:** ~15,000 records with 13 features (session activity, driving habits, navigation frequency)
+- **Techniques:** Feature engineering, logistic regression, random forest, XGBoost
+- **Outcome:** XGBoost achieved 81% accuracy and 17% recall improvement over baseline  
+- **Deliverables:** Model summary, feature importance, executive summary
 
-**Methodology:**
-- Conducted comprehensive data analysis including statistical exploration, hypothesis testing, and data validation.
-- Performed extensive feature engineering; 6 of the top 10 model features were engineered.
-- Built and compared multiple ML models: Logistic Regression, Random Forest, and XGBoost.
-- Selected **XGBoost**, achieving **81% accuracy** and **17% improvement in recall** over baseline.
-
-**Key Outcomes:**
-- Identified churn drivers and delivered executive-ready insights with proposals for further data collection.
+📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Waze%20User%20Churn%20Prediction)
 
 ---
 
 ### HR Attrition Prediction
 
-**Objective:** Predict employee attrition for Salifort Motors and identify key factors contributing to turnover.
+**Objective:** Predict which employees are likely to leave using internal HR data from a large consulting firm.
 
-**Dataset:** ~15,000 employee records.
+- **Dataset:** 15,000 employee records with variables on satisfaction, evaluation, workload, etc.
+- **Techniques:** EDA, logistic regression, random forest, AUC/ROC analysis
+- **Outcome:** Final model achieved 98% AUC using Random Forest  
+- **Deliverables:** Key drivers of attrition, HR strategy recommendations
 
-**Methodology:**
-- Performed in-depth EDA on employee demographics, satisfaction, and workload.
-- Trained and compared Logistic Regression and Random Forest classifiers.
-- Chose **Random Forest** with **AUC of 98%** for final implementation.
-
-**Key Outcomes:**
-- Uncovered top attrition drivers (e.g., satisfaction, workload, department) and informed HR retention strategies.
+📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/HR%20Attrition%20Prediction)
 
 ---
 
 ## Skills Developed
 
-Throughout the certificate and associated projects, the following key skills were developed:
-
-- **Data Cleaning & Preprocessing:** Missing values, outliers, conversions  
-- **EDA:** Visualization, descriptive stats, correlation  
-- **Feature Engineering:** Derived variables and interaction terms  
-- **Hypothesis Testing:** Inference and validation  
-- **Machine Learning:** Logistic Regression, Random Forest, XGBoost, model evaluation (accuracy, recall, AUC)  
-- **Data Storytelling:** Executive summaries, stakeholder reports  
-- **Project Management:** End-to-end analytical workflow  
+- Data Cleaning & Preprocessing (missing values, outliers, formatting)  
+- Exploratory Data Analysis (visuals, statistics, feature correlation)  
+- Feature Engineering (creation of new features for modeling)  
+- Hypothesis Testing and Model Validation  
+- Machine Learning: Logistic Regression, Random Forest, XGBoost  
+- Model Evaluation (Accuracy, Recall, AUC)  
+- Data Storytelling & Executive Summaries  
+- Project Documentation and Reporting  
 
 ---
 
 ## Technologies Used
 
-- **Python** – core programming  
-- **Pandas** – data analysis  
-- **NumPy** – numeric operations  
-- **scikit-learn** – ML modeling  
-- **Matplotlib & Seaborn** – visualization  
-- **XGBoost** – gradient boosting  
-- **SQL** – data querying  
-- **Tableau** – BI dashboards  
-- **Jupyter Notebook** – documentation and analysis  
+- **Python**: pandas, NumPy, scikit-learn, XGBoost  
+- **SQL**: Data querying and wrangling  
+- **Tableau**: Dashboards and visual storytelling  
+- **Jupyter Notebook**: Analysis and narrative  
+- **Matplotlib / Seaborn**: Statistical visualizations  
 
 ---
 
 ## How to Navigate This Repository
 
-This repository is structured by course module or project. Each directory typically contains:
+Each subfolder corresponds to a major project or capstone. Inside, you’ll find:
 
-- Jupyter Notebooks (`.ipynb`)  
-- Supporting data files (where permissible)  
-- Documentation (e.g., executive summaries)
+- 📓 Jupyter Notebooks (`.ipynb`)  
+- 📄 Summary documents (if applicable)  
+- 📊 Tableau dashboards or screenshots  
+- 📁 Data files (where permissible)
 
-### To run the code:
+To run notebooks locally:
 
 ```bash
-git clone [Your Repository URL Here]
-cd [Your Repository Name]
-
-pip install pandas numpy scikit-learn matplotlib seaborn xgboost jupyter
-
+git clone https://github.com/PranayPrasanth/Google_Analytics_Projects.git
+cd Google_Analytics_Projects
+pip install -r requirements.txt  # or install needed packages manually
 jupyter notebook
 ```
-
-Navigate to the relevant project folder and open the `.ipynb` file.
 
 ---
 
 ## Contact
 
-Feel free to reach out if you have any questions or feedback.
+Feel free to connect or reach out:
 
 - **LinkedIn:** [Pranay Prasanth](https://www.linkedin.com/in/pranayprasanth)  
-- **GitHub:** [PranayPrasanth](https://github.com/PranayPrasanth)  
+- **GitHub:** [PranayPrasanth](https://github.com/PranayPrasanth)
