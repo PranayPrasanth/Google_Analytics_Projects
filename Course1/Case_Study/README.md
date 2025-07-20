@@ -22,7 +22,7 @@ Throughout the course, experienced Google employees guide you through hands-on a
 
 This repository is structured to reflect the course's practical components:
 
-### `case study/`
+### `Case_Study/`
 This folder includes the key deliverables for the course’s main case study:
 
 - **Strategy Document**: Outlining the analytical approach, key findings, and strategic recommendations based on the data.
