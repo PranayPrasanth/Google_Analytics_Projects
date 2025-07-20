@@ -1,4 +1,4 @@
-# 📘 Course 2: Python for Data Analytics
+# 📘 Course 2: Get Started with Python
 
 This folder contains all the materials and deliverables for **Course 2: Python for Data Analytics**, the second course in the **Google Advanced Data Analytics Certificate** program.
 
