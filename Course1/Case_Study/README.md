@@ -1,4 +1,4 @@
-# 📘 Course 1: Foundations of Advanced Data Analytics
+# 📘 Course 1: Foundations of Data Science
 
 This folder contains all the materials and deliverables for **Course 1: Foundations of Advanced Data Analytics**, the first course in the **Google Advanced Data Analytics Certificate** program.
 
