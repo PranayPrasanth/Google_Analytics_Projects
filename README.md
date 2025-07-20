@@ -30,6 +30,8 @@ This repository contains projects, labs, and capstone assignments completed as p
 
 The **Google Advanced Data Analytics Certificate** equips learners with skills in advanced analytics, statistical modeling, and machine learning. Real-world case studies allow learners to apply tools like Python, SQL, and Tableau in building complete data workflows—from data cleaning and exploration to predictive modeling and stakeholder communication.
 
+📜 **[View My Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/QATTPU4V5CLW)**
+
 ---
 
 ## Key Projects
