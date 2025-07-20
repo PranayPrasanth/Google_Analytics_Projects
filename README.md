@@ -119,6 +119,8 @@ git clone [https://github.com/PranayPrasanth/Google_Analytics_Projects.git](http
 cd Google_Analytics_Projects
 pip install -r requirements.txt # or install needed packages manually
 jupyter notebook
+```
+---
 
 ## Course Breakdown & Certificates
 
