@@ -126,8 +126,8 @@ jupyter notebook
 
 This repository is organized by individual course folders, each containing specific labs and case studies. Below is a list of all courses in the Google Advanced Data Analytics Certificate program, along with links to their respective certificate pages and the corresponding project folders within this repository.
 
-* **Course 1: Foundations of Advanced Data Analytics**
-    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course1_Foundations_of_Advanced_Data_Analytics)
+* **Course 1:Foundations of Data Science**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course1/Case_Study)
     * 📜 [Certificate](https://your-certificate-link.com)
 * **Course 2: Python for Data Analytics**
     * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course2_Python_for_Data_Analytics)
