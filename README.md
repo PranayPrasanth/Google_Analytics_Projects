@@ -126,27 +126,27 @@ jupyter notebook
 
 This repository is organized by individual course folders, each containing specific labs and case studies. Below is a list of all courses in the Google Advanced Data Analytics Certificate program, along with links to their respective certificate pages and the corresponding project folders within this repository.
 
-* **Course 1:Foundations of Data Science**
+* **Course 1: Foundations of Data Science**
     * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course1/Case_Study)
-    * 📜 [Certificate](https://your-certificate-link.com)
-* **Course 2: Python for Data Analytics**
-    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course2_Python_for_Data_Analytics)
-    * 📜 [Certificate](https://your-certificate-link.com)
-* **Course 3: Translate Data into Insights**
-    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course3_Translate_Data_into_Insights)
-    * 📜 [Certificate](https://your-certificate-link.com)
+    * 📜 [Certificate](https://www.coursera.org/account/accomplishments/verify/QDMIZT9VMO39)
+* **Course 2: Get Started with Python**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course2)
+    * 📜 [Certificate](https://www.coursera.org/account/accomplishments/verify/LVQV0LTZ8VPT)
+* **Course 3: Go Beyond the Numbers: Translate Data into Insights**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course3)
+    * 📜 [Certificate](https://www.coursera.org/account/accomplishments/verify/MFRE2ISUXMDY)
 * **Course 4: The Power of Statistics**
-    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course4_The_Power_of_Statistics)
-    * 📜 [Certificate](https://your-certificate-link.com)
-* **Course 5: Regression Analysis**
-    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course5_Regression_Analysis)
-    * 📜 [Certificate](https://your-certificate-link.com)
-* **Course 6: Machine Learning Techniques**
-    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course6_Machine_Learning_Techniques)
-    * 📜 [Certificate](https://your-certificate-link.com)
-* **Course 7: Capstone Project**
-    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course7_Capstone_Project)
-    * 📜 [Certificate](https://your-certificate-link.com)
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course4)
+    * 📜 [Certificate](https://www.coursera.org/account/accomplishments/verify/JT2CT636C6Y5)
+* **Course 5: Regression Analysis: Simplify Complex Data Relationships**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course5)
+    * 📜 [Certificate](https://www.coursera.org/account/accomplishments/verify/1TL4VM8CJPA6)
+* **Course 6: The Nuts and Bolts of Machine Learning**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course6)
+    * 📜 [Certificate](https://www.coursera.org/account/accomplishments/verify/NHXOMX6A3HW8)
+* **Course 7: Google Advanced Data Analytics Capstone**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course7)
+    * 📜 [Certificate](https://www.coursera.org/account/accomplishments/verify/GUV1MYZSG042)
 
 ---
 
