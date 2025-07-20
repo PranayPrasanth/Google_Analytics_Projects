@@ -6,14 +6,23 @@ This repository contains projects, labs, and capstone assignments completed as p
 
 ## 📑 Table of Contents
 
-- [About the Certificate](#about-the-certificate)  
-- [Key Projects](#key-projects)  
-  - [Waze User Churn Prediction](#waze-user-churn-prediction)  
-  - [HR Attrition Prediction](#hr-attrition-prediction)  
-- [Skills Developed](#skills-developed)  
-- [Technologies Used](#technologies-used)  
-- [How to Navigate This Repository](#how-to-navigate-this-repository)  
-- [Contact](#contact)  
+* [About the Certificate](#about-the-certificate)
+
+* [Key Projects](#key-projects)
+
+  * [Waze User Churn Prediction](#waze-user-churn-prediction)
+
+  * [HR Attrition Prediction](#hr-attrition-prediction)
+
+* [Skills Developed](#skills-developed)
+
+* [Technologies Used](#technologies-used)
+
+* [How to Navigate This Repository](#how-to-navigate-this-repository)
+
+* [Course Breakdown & Certificates](#course-breakdown--certificates)
+
+* [Contact](#contact)
 
 ---
 
@@ -29,14 +38,15 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 
 **Objective:** Predict churn for a leading mobility app and deliver actionable business insights to improve retention.
 
-- **Dataset:** ~15,000 records with 13 features (session activity, driving habits, navigation frequency)
-- **Techniques:** Feature engineering, logistic regression, random forest, XGBoost
-- **Outcome:** XGBoost achieved 81% accuracy and 17% recall improvement over baseline  
-- **Deliverables:** Model summary, feature importance, executive summary
+* **Dataset:** ~15,000 records with 13 features (session activity, driving habits, navigation frequency)
 
-📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/HR%20Attrition%20Prediction)
+* **Techniques:** Feature engineering, logistic regression, random forest, XGBoost
 
+* **Outcome:** XGBoost achieved 81% accuracy and 17% recall improvement over baseline
 
+* **Deliverables:** Model summary, feature importance, executive summary
+
+📂 [View Project Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Waze%20User%20Churn%20Prediction)
 
 ---
 
@@ -44,38 +54,49 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 
 **Objective:** Predict which employees are likely to leave using internal HR data from a large consulting firm.
 
-- **Dataset:** 15,000 employee records with variables on satisfaction, evaluation, workload, etc.
-- **Techniques:** EDA, logistic regression, random forest, AUC/ROC analysis
-- **Outcome:** Final model achieved 98% AUC using Random Forest  
-- **Deliverables:** Key drivers of attrition, HR strategy recommendations
- 
- 📂 [View Project Repository](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
+* **Dataset:** 15,000 employee records with variables on satisfaction, evaluation, workload, etc.
 
+* **Techniques:** EDA, logistic regression, random forest, AUC/ROC analysis
 
+* **Outcome:** Final model achieved 98% AUC using Random Forest
 
+* **Deliverables:** Key drivers of attrition, HR strategy recommendations
+
+📂 [View Project Repository](https://github.com/PranayPrasanth/HR-Attrition-Prediction)
 
 ---
 
 ## Skills Developed
 
-- Data Cleaning & Preprocessing (missing values, outliers, formatting)  
-- Exploratory Data Analysis (visuals, statistics, feature correlation)  
-- Feature Engineering (creation of new features for modeling)  
-- Hypothesis Testing and Model Validation  
-- Machine Learning: Logistic Regression, Random Forest, XGBoost  
-- Model Evaluation (Accuracy, Recall, AUC)  
-- Data Storytelling & Executive Summaries  
-- Project Documentation and Reporting  
+* Data Cleaning & Preprocessing (missing values, outliers, formatting)
+
+* Exploratory Data Analysis (visuals, statistics, feature correlation)
+
+* Feature Engineering (creation of new features for modeling)
+
+* Hypothesis Testing and Model Validation
+
+* Machine Learning: Logistic Regression, Random Forest, XGBoost
+
+* Model Evaluation (Accuracy, Recall, AUC)
+
+* Data Storytelling & Executive Summaries
+
+* Project Documentation and Reporting
 
 ---
 
 ## Technologies Used
 
-- **Python**: pandas, NumPy, scikit-learn, XGBoost  
-- **SQL**: Data querying and wrangling  
-- **Tableau**: Dashboards and visual storytelling  
-- **Jupyter Notebook**: Analysis and narrative  
-- **Matplotlib / Seaborn**: Statistical visualizations  
+* **Python**: pandas, NumPy, scikit-learn, XGBoost
+
+* **SQL**: Data querying and wrangling
+
+* **Tableau**: Dashboards and visual storytelling
+
+* **Jupyter Notebook**: Analysis and narrative
+
+* **Matplotlib / Seaborn**: Statistical visualizations
 
 ---
 
@@ -83,19 +104,47 @@ The **Google Advanced Data Analytics Certificate** equips learners with skills i
 
 Each subfolder corresponds to a major project or capstone. Inside, you’ll find:
 
-- 📓 Jupyter Notebooks (`.ipynb`)  
-- 📄 Summary documents (if applicable)  
-- 📊 Tableau dashboards or screenshots  
-- 📁 Data files (where permissible)
+* 📓 Jupyter Notebooks (`.ipynb`)
+
+* 📄 Summary documents (if applicable)
+
+* 📊 Tableau dashboards or screenshots
+
+* 📁 Data files (where permissible)
 
 To run notebooks locally:
 
 ```bash
-git clone https://github.com/PranayPrasanth/Google_Analytics_Projects.git
+git clone [https://github.com/PranayPrasanth/Google_Analytics_Projects.git](https://github.com/PranayPrasanth/Google_Analytics_Projects.git)
 cd Google_Analytics_Projects
-pip install -r requirements.txt  # or install needed packages manually
+pip install -r requirements.txt # or install needed packages manually
 jupyter notebook
-```
+
+## Course Breakdown & Certificates
+
+This repository is organized by individual course folders, each containing specific labs and case studies. Below is a list of all courses in the Google Advanced Data Analytics Certificate program, along with links to their respective certificate pages and the corresponding project folders within this repository.
+
+* **Course 1: Foundations of Advanced Data Analytics**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course1_Foundations_of_Advanced_Data_Analytics)
+    * 📜 [Certificate](https://your-certificate-link.com)
+* **Course 2: Python for Data Analytics**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course2_Python_for_Data_Analytics)
+    * 📜 [Certificate](https://your-certificate-link.com)
+* **Course 3: Translate Data into Insights**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course3_Translate_Data_into_Insights)
+    * 📜 [Certificate](https://your-certificate-link.com)
+* **Course 4: The Power of Statistics**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course4_The_Power_of_Statistics)
+    * 📜 [Certificate](https://your-certificate-link.com)
+* **Course 5: Regression Analysis**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course5_Regression_Analysis)
+    * 📜 [Certificate](https://your-certificate-link.com)
+* **Course 6: Machine Learning Techniques**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course6_Machine_Learning_Techniques)
+    * 📜 [Certificate](https://your-certificate-link.com)
+* **Course 7: Capstone Project**
+    * 📂 [View Course Folder](https://github.com/PranayPrasanth/Google_Analytics_Projects/tree/main/Course7_Capstone_Project)
+    * 📜 [Certificate](https://your-certificate-link.com)
 
 ---
 
@@ -103,5 +152,5 @@ jupyter notebook
 
 Feel free to connect or reach out:
 
-- **LinkedIn:** [Pranay Prasanth](https://www.linkedin.com/in/pranayprasanth)  
-- **GitHub:** [PranayPrasanth](https://github.com/PranayPrasanth)
+* **LinkedIn:** [Pranay Prasanth](https://www.linkedin.com/in/pranayprasanth)
+* **GitHub:** [PranayPrasanth](https://github.com/PranayPrasanth)
